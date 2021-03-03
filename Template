@@ -1,0 +1,4 @@
+{@user} | Você está com: {xp} de xp! Seu level atual é: {level}.
+Faltam {experience.next-level.required-xp} de xp para você subir para o level {experience.next-level}!
+Seu ranking atual no servidor é: {experience.ranking}.
+Boa sorte!
